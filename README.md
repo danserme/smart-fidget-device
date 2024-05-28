@@ -1,6 +1,6 @@
 # Heartbeat and Activity Tracker
 
-This project is an Arduino-based system that tracks heartbeat and physical activity using a pulse sensor and a rotary encoder. It stores data on an SPI flash memory and provides a way to view and manage the recorded sessions.
+This project is an Arduino-based system that tracks user interactions and heartbeat using a pulse sensor and a rotary encoder. It stores data on an SPI flash memory and provides a way to view and manage the recorded sessions.
 
 ## Table of Contents
 - [Description](#description)
