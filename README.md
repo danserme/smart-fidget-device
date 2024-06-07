@@ -2,6 +2,8 @@
 
 This project is an Arduino-based system that tracks user interactions and heartbeat using a pulse sensor and a rotary encoder. It stores data on an SPI flash memory and provides a way to view and manage the recorded sessions.
 
+NB in this repo you can find 2 versions of the code, where smartFidgetSmall can be used in setups with standart rotary encoders. The version we describe below in details is related to the folder smartFidget_flatRE.
+
 ## Table of Contents
 - [Description](#description)
 - [Features](#features)
