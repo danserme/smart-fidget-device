@@ -11,7 +11,6 @@ NB in this repo you can find 2 versions of the code, where smartFidgetSmall can 
 - [Wiring](#wiring)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Description
@@ -84,3 +83,9 @@ The Heartbeat and Activity Tracker monitors and records heartbeat data using a p
         - Blue: Collecting data
         - Green: Sending data
         - Red: Deleting data
+          
+## License
+
+This program is licensed under the GNU General Public License v3.0. You can redistribute it and/or modify it under the terms of the GNU GPL as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
